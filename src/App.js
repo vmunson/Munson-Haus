@@ -7,13 +7,13 @@ class App extends Component {
     return (
       <div>
           <p>Munson Haus is being built.<br/> Check out our divisions -
-            <a href="https://vmunson.github.io/portfolio/"> Developing</a>
-            ,<a href="http://virginiamunson.wixsite.com/videoportfolio">Productions </a>
-            ,and <a href="https://emilymunson.com/"> Writings</a>.
+            <a href="https://vmunson.github.io/portfolio/" target="_blank"> Developing</a>
+            ,<a href="http://virginiamunson.wixsite.com/videoportfolio" target="_blank"> Productions</a>
+            , and <a href="https://emilymunson.com/" target="_blank"> Writings</a>.
           </p>
-          <img src={logo}/>
+          <img src={logo} alt="a house with munson haus coming out of its chimney"/>
       </div>
-    );
+    )
   }
 }
 
