@@ -1,0 +1,21 @@
+p {
+  text-align: center;
+  font-size: 200%;
+  color: white;
+  font-family: 'Roboto Condensed', sans-serif;
+  
+}
+a {
+  text-decoration: none;
+  color: whitesmoke;
+  font-weight: bold;
+}
+a:hover{
+  color: rgba(124, 88, 141, 0.959);
+}
+img{
+  width: 70%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
