@@ -3,7 +3,6 @@ p {
   font-size: 200%;
   color: white;
   font-family: 'Roboto Condensed', sans-serif;
-  
 }
 a {
   text-decoration: none;
@@ -11,7 +10,7 @@ a {
   font-weight: bold;
 }
 a:hover{
-  color: rgba(124, 88, 141, 0.959);
+  color: rgb(124, 88, 141);
 }
 img{
   width: 70%;
